@@ -4,7 +4,6 @@
 
 ### 🛠️ Мій стек технологій:
 - **Frontend / Web Dev:** HTML5, CSS3 (Flexbox/Grid, БЕМ), JavaScript (ES6+), GitHub
-- **Платформи, дизайн та хостинг:** Framer, Figma, Vercel, GitHub Pages
 
 ### 💻 Мої основні проєкти:
 - 🏨 **[Hotel Demo](https://project1623.github.io/hotel-demo1/)** — повний редизайн та розробка сучасного веб-сайту для готелю з фокусом на мобільну адаптивність, чисту верстку та швидкість завантаження.
